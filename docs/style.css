@@ -1,0 +1,33 @@
+:root {
+    --cover-background-color: #DA291C;
+    --sidebar-name-font-weight: 400;
+    --theme-color: #DA291C;
+}
+
+.cover-main>p>img{
+    max-width: 50%;
+}
+
+.cover-main h1 span {
+    color: #fff;
+    font-weight: 500;
+}
+
+.cover-main h1 span>small {
+    font-size: 1.5rem;
+    margin-left: 0.2em;
+}
+
+.cover-main>p>a {
+    background: #DA291C !important;
+    color: #FFF !important;
+    border-color: #FFF !important;
+    border-width: 2px !important;
+    opacity: 1 !important;
+}
+
+.cover-main>p>a:hover {
+    background: #FFF !important;
+    color: #DA291C !important;
+    border-color: #DA291C !important;
+}
