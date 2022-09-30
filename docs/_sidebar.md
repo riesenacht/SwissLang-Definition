@@ -2,4 +2,5 @@
     * [Introduction](README.md)
 
 * [Language](Language/README.md)
-    * [Arithmetic Operations](Language/01_Arithmetic_Operations.md)
+    * [Variables](Language/01_Variables.md)
+    * [Arithmetic Operations](Language/02_Arithmetic_Operations.md.md)
